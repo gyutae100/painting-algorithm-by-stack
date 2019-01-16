@@ -1,0 +1,11 @@
+﻿'PaintingMap.exe'(Win32): 'C:\Users\GyuTae\Desktop\Side Project\1 Level\2 스택 페인팅\PaintingMap\Release\PaintingMap.exe'을(를) 로드했습니다. 기호가 로드되었습니다.
+'PaintingMap.exe'(Win32): 'C:\Windows\SysWOW64\ntdll.dll'을(를) 로드했습니다. 기호가 로드되었습니다.
+'PaintingMap.exe'(Win32): 'C:\Windows\SysWOW64\kernel32.dll'을(를) 로드했습니다. 기호가 로드되었습니다.
+'PaintingMap.exe'(Win32): 'C:\Windows\SysWOW64\KernelBase.dll'을(를) 로드했습니다. 기호가 로드되었습니다.
+'PaintingMap.exe'(Win32): 'C:\Windows\SysWOW64\ucrtbase.dll'을(를) 로드했습니다. 기호가 로드되었습니다.
+'PaintingMap.exe'(Win32): 'C:\Windows\SysWOW64\msvcp140.dll'을(를) 로드했습니다. 기호가 로드되었습니다.
+'PaintingMap.exe'(Win32): 'C:\Windows\SysWOW64\vcruntime140.dll'을(를) 로드했습니다. 기호가 로드되었습니다.
+0x1a14 스레드가 종료되었습니다(코드: -1073741510 (0xc000013a)).
+0xfc4 스레드가 종료되었습니다(코드: -1073741510 (0xc000013a)).
+0x25b8 스레드가 종료되었습니다(코드: -1073741510 (0xc000013a)).
+'[8404] PaintingMap.exe' 프로그램이 종료되었습니다(코드: -1073741510 (0xc000013a)).
